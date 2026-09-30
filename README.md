@@ -8,7 +8,7 @@
 - 🎓 Учусь на Прогаммной инжененирии 
 - 🌍 Живу на Chille
 
-## 🛠 Стек за что шарю 
+## 🛠 Стек языков и инструментов 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![С++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
@@ -19,3 +19,11 @@
 
 
 ![ ](https://i.pinimg.com/736x/55/ba/f0/55baf061467b641a6bf593f46b677142.jpg)
+
+
+My tabl
+| № | Наименование | Статус работ|
+|---|--------------|--------------|
+| 1 | Лаб. работа 0 | ⏳ В процессе |
+| 2 | Лаб. работа 1 | ⏳ В процессе |
+| 3 | Лаб. работа 2 | ⏳ В процессе |
