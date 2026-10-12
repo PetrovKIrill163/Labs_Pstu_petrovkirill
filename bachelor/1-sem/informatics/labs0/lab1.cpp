@@ -1,26 +1,3 @@
-// #include <iostream>
-
-// using namespace std;
-
-// int main() {
-//     // 1 n++ * m
-//     int n1 = 5, m1 = 3;
-//     int res1 = n1++ * m1;
-//     cout << "1 n++ * m = " << res1 << endl;
-
-//     // 2 n++ < m
-//     int n2 = 5, m2 = 3;
-//     bool res2 = (n2++ < m2);
-//     cout << "2 n++ < m = " << (res2 ? "true" : "false") << endl;
-
-//     // 3 m-- > m
-//     int m3 = 3;
-//     bool res3 = (m3-- > m3);
-//     cout << "3 m-- > m = " << (res3 ? "true" : "false") << endl;
-
-//     return 0;
-// }
-
 #include <iostream>
 #include <cmath>
 #include <iomanip>
