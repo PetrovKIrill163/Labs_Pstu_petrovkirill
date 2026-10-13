@@ -31,6 +31,27 @@ int main() {
     zadaia1<float>();
     cout << "\n Результаты для double " << endl;
     zadaia1<double>();
+    
+    return 0;
+}
+// Задание 2 
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    //Пункт 1: n++ * m
+    int m = 10, n = 8;
+    cout << "n++ * m = " << (n++ * m) << endl;
+
+    //Пункт 2: n++ < m
+    m = 10; n = 8;
+    cout << "n++ < m = " << (n++ < m) << endl;
+
+    //Пункт 3: m-- > m
+    m = 10; n = 8;
+    int left = m--;   
+    cout << "m-- > m = " << (left > m) << endl;
 
     return 0;
 }
