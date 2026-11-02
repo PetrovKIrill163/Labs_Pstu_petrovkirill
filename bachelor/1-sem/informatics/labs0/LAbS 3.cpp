@@ -10,7 +10,7 @@ int main()
     double a = 0.1, b = 0.8; 
     int k = 10,n = 50;
     double eps = 0.0001;
-    double pi  = 3.14159265358979323846;
+    double pi  = 3.14;
     double h = (b -a)/ k;
 
     for (int j = 0;j <= k; j++) // перебор икса
